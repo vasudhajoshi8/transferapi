@@ -15,7 +15,7 @@ This project is a simple RESTful API for performing money transfers between acco
     ```
 4. Run tests using the provided bash script:
     ```sh
-    ./test.sh
+    ./run-tests.sh
     ```
 
 ## API Endpoints
